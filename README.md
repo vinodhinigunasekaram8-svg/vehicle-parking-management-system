@@ -1,0 +1,35 @@
+ Vehicle Parking Management System 
+
+A Java-based desktop application developed to manage vehicle parking efficiently in small commercial areas such as food cities and offices.
+
+
+ Features
+- User & Admin login (role-based access)
+- Vehicle entry and exit management
+- Parking slot allocation
+- QR code / ticket generation
+- MySQL database integration
+- Daily parking reports
+
+
+ Technologies Used
+- Java (Swing)
+- MySQL
+- JDBC
+- ZXing (QR Code generation)
+- iText (PDF & printing)
+
+
+ System Requirements
+- Java JDK 8 or above
+- MySQL Server
+-  Java IDE (Eclipse)
+
+
+ How to Run the Project
+1. Import the project into your IDE
+2. Create the database using the provided SQL file
+3. Update database credentials in the code
+4. Run the main class
+
+
